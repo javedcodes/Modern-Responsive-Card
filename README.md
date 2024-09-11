@@ -1,8 +1,8 @@
 # Modern Responsive Card in HTML & CSS
 
-In today’s web development, creating modern and visually appealing designs is crucial. One of the most widely used design elements is the [**Modern Responsive Card Source Code**](https://jvcodes.com/modern-responsive-card-in-html-css). These cards are incredibly versatile, making them suitable for different types of websites and applications.
+In today’s web development, creating modern and visually appealing designs is crucial. One of the most widely used design elements is the [**Modern Responsive Card**](https://jvcodes.com/modern-responsive-card-in-html-css). These cards are incredibly versatile, making them suitable for different types of websites and applications.
 
-In this article, I will provide you with **free source codes** to create your own [**Modern Responsive Card Source Code**](https://jvcodes.com/modern-responsive-card-in-html-css). You will learn how to build these cards quickly, and they can be used for **WordPress** sites or any other **custom HTML** projects.
+In this article, I will provide you with **free source codes** to create your own [**Modern Responsive Card**](https://jvcodes.com/modern-responsive-card-in-html-css). You will learn how to build these cards quickly, and they can be used for **WordPress** sites or any other **custom HTML** projects.
 
 ## Features of Modern Responsive Card
 
